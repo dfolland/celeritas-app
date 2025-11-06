@@ -3,7 +3,7 @@ module myapp
 go 1.17
 
 require (
-	github.com/dfolland/celeritas v1.0.0
+	github.com/dfolland/celeritas v1.1.0
 	github.com/go-chi/chi/v5 v5.0.4
 	github.com/upper/db/v4 v4.2.1
 )
